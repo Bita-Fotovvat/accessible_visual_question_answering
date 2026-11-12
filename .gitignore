@@ -1,0 +1,18 @@
+# Dataset files
+data/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.safetensors
+checkpoints/
