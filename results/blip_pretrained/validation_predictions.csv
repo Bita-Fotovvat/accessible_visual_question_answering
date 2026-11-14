@@ -1,0 +1,201 @@
+image,question,answerable,prediction,majority_answer,vqa_style_score
+VizWiz_val_00000000.jpg,Ok. There is another picture I hope it is a better one.,0,i don ' t know,unanswerable,0.0
+VizWiz_val_00000001.jpg,Can you tell me what this medicine is please?,1,yes,night time,0.0
+VizWiz_val_00000002.jpg,What is the title of this book? ,1,dog days,dog years,0.0
+VizWiz_val_00000003.jpg,Which one is the blue one?,1,left,right,0.0
+VizWiz_val_00000004.jpg,What does the arrow say?,0,7 seconds,unanswerable,0.0
+VizWiz_val_00000005.jpg,What the screen says? Thank you.,1,no,unanswerable,0.0
+VizWiz_val_00000006.jpg,What is seen on the laptop screen? What is seen on the laptop screen?,0,reflection,unanswerable,0.0
+VizWiz_val_00000007.jpg,Okay I think I got it this time. Can you read the model and serial number for me? Thanks.,0,no,unanswerable,0.3
+VizWiz_val_00000008.jpg,Is this shampoo or conditioner?,0,yes,unanswerable,0.0
+VizWiz_val_00000009.jpg,Can you describe for me what's going on outside the window? Just curious.,1,school bus,nothing,0.0
+VizWiz_val_00000010.jpg,What about the signery.,0,no idea,unanswerable,0.0
+VizWiz_val_00000011.jpg,What color is this,1,white,white,1.0
+VizWiz_val_00000012.jpg,This piece of mail for and where is it from?,0,united states,unanswerable,0.0
+VizWiz_val_00000013.jpg,Who is this mail for?,0,no idea,unanswerable,0.3
+VizWiz_val_00000014.jpg,What does my eye look like?,0,closed,unanswerable,0.0
+VizWiz_val_00000015.jpg,"Which one of these items is the children's dictionary? Is it the one on the right, or the one on the left?",1,right,left,0.3
+VizWiz_val_00000016.jpg,What is this?,1,pastry,unanswerable,0.0
+VizWiz_val_00000017.jpg,Can you see if this is 32 bit or 64 bit?  Thanks.,0,yes,unanswerable,0.0
+VizWiz_val_00000018.jpg,What is the computer doing?,1,running,unanswerable,0.0
+VizWiz_val_00000019.jpg,What is the tag number?,0,0,unanswerable,0.0
+VizWiz_val_00000020.jpg,What does this sign say?,0,no parking,unanswerable,0.0
+VizWiz_val_00000021.jpg,What is this color and pattern? There's some sort of pattern on my left chest there. Describe. ,1,camouflage,plain white uspa logo in gold,0.0
+VizWiz_val_00000022.jpg,Can you tell what this is?,1,yes,dropper bottle,0.3
+VizWiz_val_00000023.jpg,Can you tell me what the error message is on the Windows screen?,1,yes,starting windows,0.0
+VizWiz_val_00000024.jpg,"Sometimes it does this too.  It's great when it works, but when it doesn't, it's annoying.",1,yes,unanswerable,0.0
+VizWiz_val_00000025.jpg,I was wondering how ominous the sky is looking here at the northwest.,1,yes,fairly but could be worse,0.0
+VizWiz_val_00000026.jpg,Can you tell me what these are please?,1,yes,unanswerable,0.0
+VizWiz_val_00000027.jpg,What type of pills are these?,0,inhaler,unanswerable,0.0
+VizWiz_val_00000028.jpg,Is this a woman?>,1,yes,yes,1.0
+VizWiz_val_00000029.jpg,What does it say?,1,words,unanswerable,0.0
+VizWiz_val_00000030.jpg,What does that money say?,0,0,unanswerable,0.0
+VizWiz_val_00000031.jpg,Can anyone tell me what's actually on the screen of the laptop?,1,yes,unanswerable,0.0
+VizWiz_val_00000032.jpg,Can you tell me what this is a picture of?,1,yes,unanswerable,0.0
+VizWiz_val_00000033.jpg,Can you read the bottle on the screen?,0,no,unanswerable,0.8999999999999998
+VizWiz_val_00000034.jpg,How big do you think my TV is? Thank you.,1,50 inches,unanswerable,0.0
+VizWiz_val_00000035.jpg,What does this note say?,0,no words,unanswerable,0.0
+VizWiz_val_00000036.jpg,What is the title of this book?,1,yes,dog years,0.0
+VizWiz_val_00000037.jpg,"Hi, I just wanted to confirm that these are indeed pork chops. Any other information that is clear would be appreciated. Thank you.",1,yes,yes,1.0
+VizWiz_val_00000038.jpg,Please tell me what this is.,0,yes,unanswerable,0.0
+VizWiz_val_00000039.jpg,What denomination is this?,0,no,unanswerable,0.0
+VizWiz_val_00000040.jpg,Please tell me what is in this food packaging. I know it's a Tesco's Indian meal of some kind. ,0,yes,unanswerable,0.0
+VizWiz_val_00000041.jpg,What is this receipt about and is there a phone number?,0,phone number,unanswerable,0.0
+VizWiz_val_00000042.jpg,What does this fortune cookie say?,0,no idea,unanswerable,0.0
+VizWiz_val_00000043.jpg,Tell me what's in this photo.,0,yes,unanswerable,0.0
+VizWiz_val_00000044.jpg,Able on my vacuum I need the serial number and model number.,0,yes,unanswerable,0.0
+VizWiz_val_00000045.jpg,What is the expiration date on this bus pass?,1,january 29,unanswerable,0.0
+VizWiz_val_00000046.jpg,"How big is my TV and what is on the screen, and what is the model number, and what brand is it?",0,lg,unanswerable,0.0
+VizWiz_val_00000047.jpg,what is this we taking a picture of?,1,woman ' s stomach,boobs,0.0
+VizWiz_val_00000048.jpg,What store is this?,1,garage,original pancake house,0.0
+VizWiz_val_00000049.jpg,What kind of pop is this?,1,mountain dew,unanswerable,0.0
+VizWiz_val_00000050.jpg,Screen showing.,0,no,unanswerable,0.0
+VizWiz_val_00000051.jpg,What letters am I supposed to enter in to claim the prize?,0,ey,unanswerable,0.0
+VizWiz_val_00000052.jpg,Can you tell me if there is a model on here please? Thank you.,0,yes,unanswerable,0.6
+VizWiz_val_00000053.jpg,"Hello there, are you able to see what's on this LCD screen and if it's expecting any input from the user, as in, does it have a next button, back button?",1,yes,yes,0.6
+VizWiz_val_00000054.jpg,What's the name of the drink?,1,no idea,irn bru,0.0
+VizWiz_val_00000055.jpg,Where do you think I could get a power cord? ,1,no,unanswerable,0.0
+VizWiz_val_00000056.jpg,Specials on this menu.,0,yes,unanswerable,0.0
+VizWiz_val_00000057.jpg,What is on the pillowcase?,1,texas longhorns,texas,0.3
+VizWiz_val_00000058.jpg,I cannot move the camera slightly closer to the monitor.,0,yes,unanswerable,0.3
+VizWiz_val_00000059.jpg,What does the label say on this electronic component?,0,0,unanswerable,0.0
+VizWiz_val_00000060.jpg,Please tell me the them of this book,1,yes,clive cussler dirk cussler,0.0
+VizWiz_val_00000061.jpg,What is this?,1,computer,computer screen,0.0
+VizWiz_val_00000062.jpg,What website is this?,0,myprofe,unanswerable,0.0
+VizWiz_val_00000063.jpg,Alright see if you can see the ORCA serial number now.,0,no,unanswerable,1.0
+VizWiz_val_00000064.jpg,What is the person doing?,1,working on computer,looking at computer,0.3
+VizWiz_val_00000065.jpg,Could you please tell me what's on my screen?  ,0,no,unanswerable,0.3
+VizWiz_val_00000066.jpg,Product key for this version of Office.,0,yes,unanswerable,0.6
+VizWiz_val_00000067.jpg,What's the website?,0,linux,unanswerable,0.0
+VizWiz_val_00000068.jpg,What does the screen say?,1,wiimote whiteboard,unanswerable,0.0
+VizWiz_val_00000069.jpg,Can you tell me what this bottle says?,1,yes,warm vanilla sugar,0.0
+VizWiz_val_00000070.jpg,"About this one, thank you.",0,i don ' t know,unanswerable,0.0
+VizWiz_val_00000071.jpg,What is this item,0,cell phone,unanswerable,0.0
+VizWiz_val_00000072.jpg,what does the sky look like in this photograph,1,partly cloudy,clear,0.0
+VizWiz_val_00000073.jpg,Can you tell me what this screen says?,0,no,unanswerable,0.0
+VizWiz_val_00000074.jpg,Product key for this version of office?,0,microsoft,unanswerable,0.0
+VizWiz_val_00000075.jpg,Is there anything on the screen?,1,yes,yes,1.0
+VizWiz_val_00000076.jpg,Business card.,0,yes,unanswerable,0.0
+VizWiz_val_00000077.jpg,What's on my computer screen?,1,blank screen,unanswerable,0.0
+VizWiz_val_00000078.jpg,"Can see what's on the screen, like is it a log in screen or anything like that? Thank you.",1,yes,unanswerable,0.6
+VizWiz_val_00000079.jpg,What is this a medal for?,1,olympics,american cancer society,0.0
+VizWiz_val_00000080.jpg,What is this show? ,1,no idea,unanswerable,0.0
+VizWiz_val_00000081.jpg,"Please tell me the title of this book, thank you for your time.",0,yes,unanswerable,0.0
+VizWiz_val_00000082.jpg,"Is my computer performing a disc check? For example, does it say on the screen, \Checking files system\, or \Stage one of four\ or some such? Thank you. ",0,no idea,unanswerable,0.0
+VizWiz_val_00000083.jpg,Which one of the three images is the Google logo?,0,top left,unanswerable,0.0
+VizWiz_val_00000084.jpg,IS there a picture on this tv screen?,1,yes,yes,1.0
+VizWiz_val_00000085.jpg,please explain what is on this piece of paper,1,no idea,unanswerable,0.0
+VizWiz_val_00000086.jpg,What bill is this?,0,25 cents,unanswerable,0.0
+VizWiz_val_00000087.jpg,What are the cooking instructions for this?,0,bread,unanswerable,0.0
+VizWiz_val_00000088.jpg,Is there a button I need to press to make it resume? Or do I just wait?,0,yes,unanswerable,0.3
+VizWiz_val_00000089.jpg,What does the screen say?,1,words,unanswerable,0.0
+VizWiz_val_00000090.jpg,Is the dialogue more visible in that picture?,1,yes,no,0.8999999999999998
+VizWiz_val_00000091.jpg,What does the small label on this disc say?,1,dvd video ram,prop quartics inc,0.0
+VizWiz_val_00000092.jpg,"The previous screen presented country, timezone, currency and keyboard and I went ahead and after I got a response from the web worker I selected Alt-N followed by next so I'm not sure if I ",0,time,unanswerable,0.0
+VizWiz_val_00000093.jpg,"Is this picture clear, and where are we now?",1,yes,no,0.3
+VizWiz_val_00000094.jpg,Can you please tell me what the computer screen says within in the VMware workstation window?  Particular to see if there's any progress on the Windows installation.,0,yes,unanswerable,0.0
+VizWiz_val_00000095.jpg,Can you see what's on the screen?,1,yes,no,0.0
+VizWiz_val_00000096.jpg,Is this caffeinated or decaffeinated?,1,no,caffeinated,0.0
+VizWiz_val_00000097.jpg,Can you tell me if there's any local Seattle beers on this menu?,0,no,unanswerable,1.0
+VizWiz_val_00000098.jpg,What is the model number of the computer?,0,lg,unanswerable,0.0
+VizWiz_val_00000099.jpg,"Alright. If you could tell what the screen says, that would be helpful, thank you",1,i don ' t know,unanswerable,0.0
+VizWiz_val_00000100.jpg,Can you see the dosage information? Thank you.,1,yes,no,0.0
+VizWiz_val_00000101.jpg,Is their text on this computer screen?,1,yes,yes,1.0
+VizWiz_val_00000102.jpg,"this is a picture of a home i'm planning to buy, does it look like its in a safe neighborhood? ",1,no,no,1.0
+VizWiz_val_00000103.jpg,What bottle is this please? Thank you.,0,wine bottle,unanswerable,0.0
+VizWiz_val_00000104.jpg,Can you please tell me the progress of the Windows installation? Thank you very much.,0,yes,unanswerable,0.0
+VizWiz_val_00000105.jpg,Has the text on the screen changed?,0,yes,unanswerable,0.6
+VizWiz_val_00000106.jpg,"Hi, can you give me the percentage of the scan disk? Thanks. ",0,no,unanswerable,0.6
+VizWiz_val_00000107.jpg,Please tell me the title of this book. Thank you for your time.,0,tell time,unanswerable,0.0
+VizWiz_val_00000108.jpg,What does this screen say?,1,words,expanding windows files,0.0
+VizWiz_val_00000109.jpg,What is the expiration date on this bus pass?,0,5. 06,unanswerable,0.0
+VizWiz_val_00000110.jpg,what kind of medication is this?,0,gas x,unanswerable,0.0
+VizWiz_val_00000111.jpg,what is this,0,car,unanswerable,0.3
+VizWiz_val_00000112.jpg,Please describe this page. Thank you.,1,no,store ad,0.0
+VizWiz_val_00000113.jpg,What are the letters I need to enter in?,1,cursive,kej,0.0
+VizWiz_val_00000114.jpg,Is it impossible for you to read the captcha image in this picture? Thanks.,1,no,unanswerable,1.0
+VizWiz_val_00000115.jpg,What is this?,1,stomach,chest,0.0
+VizWiz_val_00000116.jpg,What does this arrow say?,0,7 : 00,unanswerable,0.0
+VizWiz_val_00000117.jpg,Please tell me the name of this book.,0,can ' t tell,unanswerable,0.0
+VizWiz_val_00000118.jpg,What does this say?,0,instructions,unanswerable,0.0
+VizWiz_val_00000119.jpg,what is written on the screen?,0,words,unanswerable,0.0
+VizWiz_val_00000120.jpg,What is this?,0,no,unanswerable,0.0
+VizWiz_val_00000121.jpg,Product key for this versions off,0,yes,unanswerable,0.0
+VizWiz_val_00000122.jpg,What is this item?,1,bottle on ground,unanswerable,0.0
+VizWiz_val_00000123.jpg,"Yeah, it should be fine, I'm just trying to post it online so someone can see all the inputs and connectors and things like that. If you can see those, then yeah, email it to me at mike@melo.com",1,yes,unanswerable,0.6
+VizWiz_val_00000124.jpg,What drink is this?,1,wine,hint blackberry,0.0
+VizWiz_val_00000125.jpg,Can you tell me what this is a picture of?,1,yes,computer screen,0.0
+VizWiz_val_00000126.jpg,What's in this bottle?,0,air freshener,unanswerable,0.0
+VizWiz_val_00000127.jpg,What does the screen say?,1,windows xp,windows 7 home premium,0.0
+VizWiz_val_00000128.jpg,Hi what's on this card?  I'm looking for some sort of ID number it could be eight digits.,0,0,unanswerable,0.0
+VizWiz_val_00000129.jpg,"Ok I have taken a picture of a sticker close up now hopefully you can see it. Again, I need the model number. Thank You",0,yes,unanswerable,0.0
+VizWiz_val_00000130.jpg,"Can you see a bottle in this picture? And if so, what is it?",1,yes,no,0.0
+VizWiz_val_00000131.jpg,Trying to take a picture of this bottle of wine.,0,yes,unanswerable,0.0
+VizWiz_val_00000132.jpg,What does this message say?,1,tortoise,restoration complete,0.0
+VizWiz_val_00000133.jpg,Can you tell us what this screen says? Thanks.,1,no,next,0.3
+VizWiz_val_00000134.jpg,What is this?,1,information,computer screen,0.0
+VizWiz_val_00000135.jpg,Can you please tell me what is displayed on the screen?,1,yes,startup repair,0.0
+VizWiz_val_00000136.jpg,Tell me what this screen says because the computers not functioning properly and it gave another sound,1,no,printer not responding,0.0
+VizWiz_val_00000137.jpg,What is on this piece of paper?  Thank you.,1,money,sales ad,0.0
+VizWiz_val_00000138.jpg,What does this say?What does this say?,1,business model generation,medicare inquiry center,0.0
+VizWiz_val_00000139.jpg,What does this message say?,1,no idea,restoration complete,0.0
+VizWiz_val_00000140.jpg,Can you please describe to me what's on the page and its orientation? Thank you,1,no,sideways car sales ad,0.0
+VizWiz_val_00000141.jpg,What's in this jar please?,0,no,unanswerable,0.0
+VizWiz_val_00000142.jpg,Work for me or I'm going to beat you. I will beat the out of you. ,0,i don ' t know,unanswerable,0.0
+VizWiz_val_00000143.jpg,"I need to know the cooking instructions for grilling for these burgers. If you need to turn, me to turn the package over just let me know.",0,no,unanswerable,0.0
+VizWiz_val_00000144.jpg,What does this say?  Thank you.,1,not sure,your computer at risk,0.0
+VizWiz_val_00000145.jpg,Can you see the steak on this menu?,1,no,yes,0.0
+VizWiz_val_00000146.jpg,Hopefully you can see what this screen says.,0,no,unanswerable,0.3
+VizWiz_val_00000147.jpg,Can you tell what's on this paper?,1,yes,no,0.0
+VizWiz_val_00000148.jpg,What is written on that screen?,0,0,unanswerable,0.0
+VizWiz_val_00000149.jpg,What is this?,1,screen of phone,unanswerable,0.0
+VizWiz_val_00000150.jpg,Can you please tell me what the computer screen says?  Thank you.,0,no,unanswerable,0.6
+VizWiz_val_00000151.jpg,"Okay, I moved the camera a little to the right. Hopefully that will get whatever the code is I need and I am looking forward to the answer. Thanks a bunch.",0,yes,unanswerable,0.0
+VizWiz_val_00000152.jpg,What is the captcha show?,0,no idea,unanswerable,0.0
+VizWiz_val_00000153.jpg,Can you tell me which medicine this is please?,1,yes,night time,0.0
+VizWiz_val_00000154.jpg,What does this coupon say on it?,1,buy 1 get 1 free,buy 1 pizza at menu price receive 1 pizza equal lesser value free expires 12 31 11,0.0
+VizWiz_val_00000155.jpg,Is this piece of mail?,0,no,unanswerable,0.0
+VizWiz_val_00000156.jpg,Can you tell what I'm playing?,1,yes,angry birds,0.0
+VizWiz_val_00000157.jpg,"Yes, can you please tell me what this screen says? I seem to have an error booting up my computer. ",1,yes,unanswerable,0.0
+VizWiz_val_00000158.jpg,What is this?,0,napkin,unanswerable,0.0
+VizWiz_val_00000159.jpg,Help me with this capture.,1,yes,casithwo,0.0
+VizWiz_val_00000160.jpg,Can you give me an idea of what's on the screen? Thank you.,1,yes,links to sites,0.0
+VizWiz_val_00000161.jpg,What is in this picture?,1,tv,tv,0.9
+VizWiz_val_00000162.jpg,What does this say?,1,words,unanswerable,0.0
+VizWiz_val_00000163.jpg,What is that word?,1,beginner,entsursa,0.0
+VizWiz_val_00000164.jpg,Yeah what is this?,0,no,unanswerable,0.0
+VizWiz_val_00000165.jpg,What does the top of this pamphlet say?,1,no idea,college area breadth requirement,0.0
+VizWiz_val_00000166.jpg,What does this say?,0,no idea,unanswerable,0.0
+VizWiz_val_00000167.jpg,"Okay, I've turn the package over and I need to know the grilling instruction for these burgers, thank you.",0,no,unanswerable,0.0
+VizWiz_val_00000168.jpg,What does the computer screen say?,0,windows,unanswerable,0.0
+VizWiz_val_00000169.jpg,What is in this can?,1,apple juice,unanswerable,0.0
+VizWiz_val_00000170.jpg,What color is this skirt?,1,black,blue,0.0
+VizWiz_val_00000171.jpg,What is the TV channel? ,0,espn,unanswerable,0.0
+VizWiz_val_00000172.jpg,What's on this channel?,1,fox sports,unanswerable,0.0
+VizWiz_val_00000173.jpg,clouds in the sky look like,1,white and puffy,white,0.0
+VizWiz_val_00000174.jpg,What does the screen say?,1,i don ' t know,unanswerable,0.0
+VizWiz_val_00000175.jpg,What does the text on this say?,1,can ' t tell,unanswerable,0.0
+VizWiz_val_00000176.jpg,What's going on on the computer screen?,1,texting,unanswerable,0.0
+VizWiz_val_00000177.jpg,I need the serial number for this software.,0,no,unanswerable,0.0
+VizWiz_val_00000178.jpg,What does this cartoon look like? Thank you.,1,don ' t know,unanswerable,0.0
+VizWiz_val_00000179.jpg,Is this person attractive?,0,no,unanswerable,0.0
+VizWiz_val_00000180.jpg,On the screen does it say it's restoring?,0,no,unanswerable,0.3
+VizWiz_val_00000181.jpg,Real pun.,0,no,unanswerable,0.0
+VizWiz_val_00000182.jpg,Can you tell me what's on this screen please?  If at all readable or anything like that.,0,no,unanswerable,0.6
+VizWiz_val_00000183.jpg,Is there text or any identifying identification on this side of the card?,1,yes,no,0.3
+VizWiz_val_00000184.jpg,Is it more in focus now?,1,no,no,1.0
+VizWiz_val_00000185.jpg,"Please tell me whats on my screen, thank you, thank you, thank you I have no speech, bless you all for doing this. Oh No!",0,i don ' t know,unanswerable,0.0
+VizWiz_val_00000186.jpg,What is this CD?,1,no,technet subscription,0.0
+VizWiz_val_00000187.jpg,What is this receipt about?,0,instructions,unanswerable,0.0
+VizWiz_val_00000188.jpg,"Tell me about this creme, what is showing, what is visible, doesn't really matter if you can't read the full text as long as I know there's something going on that's fine. ",0,it ' s not,unanswerable,0.0
+VizWiz_val_00000189.jpg,Can you please tell me if there are any errors on this screen?,0,no,unanswerable,0.0
+VizWiz_val_00000190.jpg,"What software is this, and read any serial number if you can see one.",0,0,unanswerable,0.0
+VizWiz_val_00000191.jpg,What are the letters to enter in to obtain the prize?,1,yes,cjo,0.0
+VizWiz_val_00000192.jpg,What is this?,1,tv,tv,0.9
+VizWiz_val_00000193.jpg,"Can you please tell me what's on this page, and it's orientation? Thank you.",1,yes,unanswerable,0.0
+VizWiz_val_00000194.jpg,Does it still say loading Windows or is it to the restore?,1,returning,loading,0.0
+VizWiz_val_00000195.jpg,What does the screen on my TV say?,1,after earth,starz,0.0
+VizWiz_val_00000196.jpg,What is this a picture of?,1,woman,woman,0.6
+VizWiz_val_00000197.jpg,Can you please tell me the 1-800 number on this card?,1,yes,1 877 328 9677,0.0
+VizWiz_val_00000198.jpg,Can you tell me what the screen says?,0,yes,unanswerable,0.0
+VizWiz_val_00000199.jpg,"There did I press the ok button I think?  And am I further along, thanks.",0,yes,unanswerable,0.0

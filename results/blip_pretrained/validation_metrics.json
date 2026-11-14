@@ -1,0 +1,10 @@
+{
+  "model": "Salesforce/blip-vqa-base",
+  "n_evaluated": 200,
+  "overall_vqa_style": 0.1255,
+  "answerable_vqa_style": 0.15428571428571428,
+  "unanswerable_vqa_style": 0.09368421052631577,
+  "exact_majority_accuracy": 0.06,
+  "predicted_unanswerable_rate": 0.0,
+  "unanswerable_on_answerable_rate": 0.0
+}
